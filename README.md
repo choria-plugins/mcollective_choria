@@ -4,7 +4,7 @@
 
 1. [Overview](#overview)
 1. [Usage](#usage)
-1. [Configuration](#configuration)
+1. [Configuration](#data-reference)
 
 ## Overview
 
