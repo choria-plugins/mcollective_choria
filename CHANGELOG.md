@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2023/09/18|      |Release 0.22.0                                                                                           |
+|2023/09/18|      |Update dependencies and support Puppet 8                                                                 |
 |2023/03/22|      |Release 0.21.5                                                                                           |
 |2023/03/22|      |Update DDL files and dependencies                                                                        |
 |2022/11/07|      |Release 0.21.4                                                                                           |
