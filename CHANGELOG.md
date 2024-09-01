@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2024/09/01|      |Release 0.22.2                                                                                           |
+|2024/8/25|       |Support new module layout and tooling                                                                    |
 |2024/02/03|      |Release 0.22.1                                                                                           |
 |2023/11/13|26    |Add gem dependency for Puppet 8 support                                                                  |
 |2023/09/18|      |Release 0.22.0                                                                                           |
