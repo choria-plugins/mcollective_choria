@@ -1,2 +1,0 @@
-mcollective_choria::gem_dependencies:
-  "choria-mcorpc-support": "2.26.4"
