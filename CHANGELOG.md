@@ -1,5 +1,6 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2026/11/06|      |Install choria-mcorpc-support 2.28.0 on Puppet 9 AIO, 2.27.0 does not load on its Ruby 4.0               |
 |2024/09/01|      |Release 0.22.2                                                                                           |
 |2024/8/25|       |Support new module layout and tooling                                                                    |
 |2024/02/03|      |Release 0.22.1                                                                                           |
