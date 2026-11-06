@@ -11,7 +11,7 @@ group :test do
 end
 
 group :release do
-  gem "voxpupuli-release", "~> 3.0", :require => false
+  gem "voxpupuli-release", "~> 5.0", :require => false
 end
 
 mcollective_version = ENV["MCOLLECTIVE_GEM_VERSION"]
